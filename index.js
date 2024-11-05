@@ -1,0 +1,1 @@
+console.log("5-oy 1-dars vazifa")
